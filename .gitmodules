@@ -1,5 +1,8 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "crystract"]
+	path = crystract
+	url = https://github.com/prabhulab/ml-crystals
+	subdir = packages/crystract
